@@ -25,9 +25,9 @@ No, About your Data it is completely safe and secure we don't share it with anyo
 
 
 ## 5. How can you contact us? 
-If you have any concerns about vivre. You can simply join our [support server](https://discord.gg/c2KKcfj4Dy) or [our Email](renonbotdisccord@gmail.com).
+If you have any concerns about vivre. You can simply join our [support server](https://discord.gg/fwxsfES4sH) or [our Email](solarionfx@gmail.com).
 
 
 ## 6. How can you delete your Data?
-You can simply remove warns by command. And for the giveaway system it will be automatically deleted when you a message.
+You can simply remove warns by command. And for the economy system it will be automatically deleted when you a message.
 And for the temp mute when time ends it will be automatically deleted.
